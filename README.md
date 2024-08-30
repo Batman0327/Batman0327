@@ -42,7 +42,6 @@ Quanta Medical Solutions: Worked as a Quality Assurance Analyst, specializing in
 
 Cybersecurity Projects: Conducted penetration testing using tools like Metasploit, Hydra, and Nikto, and worked on cybersecurity projects involving hash values and digital forensics.
 
-📊 GitHub Stats
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
