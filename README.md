@@ -8,7 +8,7 @@ When I'm not diving into code or cybersecurity tools, you'll find me meditating,
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"> 
 
-🎓 **Education:** Bachelors in Computer Applications | Masters in Cyber Security from the University of Hertfordshire <a href="https://www.herts.ac.uk/courses/postgraduate-masters/msc-cyber-security" target ="_blank">View the coursework</a> 
+🎓 **Education:** Bachelor's in Computer Applications | Master's in Cyber Security from the University of Hertfordshire &#x1f1ec;&#x1f1e7; 
 
 🌱 **Currently Learning:** SOC, Advanced Penetration Testing, Cybersecurity Tools 
 
@@ -60,6 +60,11 @@ When I'm not diving into code or cybersecurity tools, you'll find me meditating,
 
 <h3 align="left"> 📫 Connect with me </h3>
 <p>
-<a href="https://instagram.com/abudctedbyspirits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abudctedbyspirits" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abductedbyspirits/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abudctedbyspirits" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-singh-98b4a92b0/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="abhishek-singh-98b4a92b0" height="30" width="40" /></a>
 </p>
-📧 Email: abhishekdinkar@hotmail.com
+
+<p>
+📧 Email: <a href="mailto: abhishekdinkar@hotmail.com"> abhishekdinkar@hotmail.com </a> 
+</p>
+
