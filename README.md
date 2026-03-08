@@ -6,7 +6,7 @@ I'm a passionate computer enthusiast from India, currently pursuing a Master's i
 
 When I'm not diving into code or cybersecurity tools, you'll find me meditating, trekking, or exploring new places. I'm also a fitness freak and love to challenge myself both mentally and physically.
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"> 
+<img align="right" alt="[coding" width="400" height="400" src="https://github.com/Batman0327/My-First-Repo/blob/main/ChatGPT%20Image%20Mar%208,%202026,%2005_21_43%20AM.png?raw=true"> 
 
 🎓 **Education:** Bachelor's in Computer Applications | Master's in Cyber Security from the University of Hertfordshire &#x1f1ec;&#x1f1e7; 
 
